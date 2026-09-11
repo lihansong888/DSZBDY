@@ -1,4 +1,4 @@
-name: Sync HUYA Source
+name: Sync DOUYU Source
 
 on:
   push:
